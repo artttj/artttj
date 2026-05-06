@@ -1,24 +1,17 @@
-```txt
-  engineering lead · frankfurt
-  dev tools · browser extensions · agentic experiments
-```
-
----
-
 ### selected work
 
 <table>
 <tr>
 <td width="50%">
 
-**[Sentō](https://github.com/artttj/sento)**
+<img src="https://artttj.github.io/assets/img/projects/sento-icon.png" width="16" height="16" valign="middle"> **[Sentō](https://github.com/artttj/sento)**
 AI writing layer for any web interface.
 BYOK · Shadow DOM · Manifest V3
 
 </td>
 <td width="50%">
 
-**[Nemo](https://github.com/artttj/nemo)**
+<img src="https://artttj.github.io/assets/img/projects/nemo-icon.png" width="16" height="16" valign="middle"> **[Nemo](https://github.com/artttj/nemo)**
 Passwords never leave your device.
 E2E encrypted sync · Zero-knowledge · Beta
 
@@ -27,14 +20,14 @@ E2E encrypted sync · Zero-knowledge · Beta
 <tr>
 <td width="50%">
 
-**[Noto](https://github.com/artttj/noto)**
+<img src="https://artttj.github.io/assets/img/projects/noto-icon.png" width="16" height="16" valign="middle"> **[Noto](https://github.com/artttj/noto)**
 Clipboard history and prompt shelf.
 Chrome · Manifest V3 · Productivity
 
 </td>
 <td width="50%">
 
-**[Synto](https://chromewebstore.google.com/detail/synto/fimopaolcnmojcdilinhmhnnbnnnkhjh)**
+<img src="https://artttj.github.io/assets/img/projects/synto-icon.png" width="16" height="16" valign="middle"> **[Synto](https://chromewebstore.google.com/detail/synto/fimopaolcnmojcdilinhmhnnbnnnkhjh)**
 Web to structured data for LLM pipelines.
 Markdown · AI APIs · Extraction
 
@@ -42,15 +35,9 @@ Markdown · AI APIs · Extraction
 </tr>
 </table>
 
-**[Sonto News](https://sonto.tech)** — Tech news curated by AI agents. 30+ sources, hourly crawl.
+<img src="https://artttj.github.io/assets/img/projects/sonto-icon.png" width="16" height="16" valign="middle"> **[Sonto News](https://sonto.tech)** — Tech news curated by AI agents. 30+ sources, hourly crawl.
 
 **[Rapid Stack](https://github.com/artttj/rapid-stack)** — Claude Code skills as short commands.
-
----
-
-### now
-
-Shipping browser extensions that feel native. Exploring agentic UI.
 
 ---
 
