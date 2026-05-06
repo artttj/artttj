@@ -6,8 +6,8 @@
 
 <p><img align="left" src="https://artttj.github.io/assets/img/projects/nemo-icon.png" width="16" height="16"> <strong><a href="https://github.com/artttj/nemo">Nemo</a></strong> Passwords never leave your device.</p>
 
-<p><img align="left" src="https://artttj.github.io/assets/img/projects/noto-icon.png" width="16" height="16"> <strong><a href="https://github.com/artttj/noto">Noto</a></strong> Clipboard history and prompt shelf.</p>
+<p><img align="left" src="https://artttj.github.io/assets/img/projects/noto-icon.png" width="16" height="16"> <strong><a href="https://chromewebstore.google.com/detail/noto/oddalendfcaonkemohpokibgndnnogag">Noto</a></strong> Clipboard history and prompt shelf.</p>
 
-<p><img align="left" src="https://artttj.github.io/assets/img/projects/sento-icon.png" width="16" height="16"> <strong><a href="https://github.com/artttj/sento">Sentō</a></strong> AI writing layer for any web interface.</p>
+<p><img align="left" src="https://artttj.github.io/assets/img/projects/sento-icon.png" width="16" height="16"> <strong><a href="https://chromewebstore.google.com/detail/sent%C5%8D/njdfdfhcnlfkigkppnhbihlidjmiepfb">Sentō</a></strong> AI writing layer for any web interface.</p>
 
 <p><img align="left" src="https://artttj.github.io/assets/img/projects/synto-icon.png" width="16" height="16"> <strong><a href="https://chromewebstore.google.com/detail/synto/fimopaolcnmojcdilinhmhnnbnnnkhjh">Synto</a></strong> Web to structured data for LLM pipelines.</p>
