@@ -16,6 +16,6 @@
 
 <div align="center">
 
-<img src="https://artttj.de/assets/img/logo.png" width="16" height="16" valign="middle"> <a href="https://artttj.de">artttj.de</a>
+<a href="https://artttj.de"><img src="https://artttj.de/assets/img/logo.png" width="16" height="16" valign="middle"> artttj.de</a>
 
 </div>
