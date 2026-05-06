@@ -1,4 +1,4 @@
-<pre align="center">
+<p align="center">
 <code>
 ┌─────────────────────────────────────────────┐
 │                                             │
@@ -16,30 +16,28 @@
 │                                             │
 └─────────────────────────────────────────────┘
 </code>
-</pre>
+</p>
 
-<pre align="center">
+<p align="center">
 <code>
   >>> artyom yagovdik
   >>> dev tools · browser extensions · agent experiments
   >>> frankfurt
 </code>
-</pre>
-
-<br>
+</p>
 
 ---
 
 ## >>> selected_work
 
-<pre><code>
+```
 ┌────────────────────────────────────────┐
 │ rapid-stack                            │
 │ ────────────────────────────────────── │
 │ claude code skills as short commands   │
 │ TypeScript · Agent workflows           │
 │                                        │
-│ <a href="https://github.com/artttj/rapid-stack">[ open ]</a>                              │
+│ https://github.com/artttj/rapid-stack  │
 └────────────────────────────────────────┘
 
 ┌────────────────────────────────────────┐
@@ -49,7 +47,7 @@
 │ rewrite via openai / gemini / grok     │
 │ TypeScript · Shadow DOM · MV3          │
 │                                        │
-│ <a href="https://github.com/artttj/sento">[ open ]</a>                              │
+│ https://github.com/artttj/sento        │
 └────────────────────────────────────────┘
 
 ┌────────────────────────────────────────┐
@@ -59,7 +57,7 @@
 │ e2e encrypted sync                     │
 │ TypeScript · Crypto                    │
 │                                        │
-│ <a href="https://github.com/artttj/nemo">[ open ]</a>                              │
+│ https://github.com/artttj/nemo         │
 └────────────────────────────────────────┘
 
 ┌────────────────────────────────────────┐
@@ -69,7 +67,7 @@
 │ prompt templates · ai briefs           │
 │ TypeScript · Markdown · AI APIs        │
 │                                        │
-│ <a href="https://github.com/artttj/synto">[ open ]</a>                              │
+│ https://github.com/artttj/synto        │
 └────────────────────────────────────────┘
 
 ┌────────────────────────────────────────┐
@@ -78,7 +76,7 @@
 │ clipboard history + prompt shelf       │
 │ TypeScript · Chrome extension          │
 │                                        │
-│ <a href="https://github.com/artttj/noto">[ open ]</a>                              │
+│ https://github.com/artttj/noto         │
 └────────────────────────────────────────┘
 
 ┌────────────────────────────────────────┐
@@ -88,9 +86,9 @@
 │ 30+ sources · hourly crawl             │
 │ Python · Agent pipeline                │
 │                                        │
-│ <a href="https://github.com/artttj/sonto-news">[ open ]</a>                              │
+│ https://github.com/artttj/sonto-news   │
 └────────────────────────────────────────┘
-</code></pre>
+```
 
 ---
 
@@ -101,8 +99,10 @@
 
 ---
 
-<pre align="center"><code>
-  >>> <a href="https://artttj.de">artttj.de</a>
-  >>> <a href="https://github.com/artttj?tab=repositories">all repos</a>
-  >>> <a href="mailto:art@artttj.de">mail</a>
-</code></pre>
+<p align="center">
+<code>
+  >>> https://artttj.de
+  >>> https://github.com/artttj?tab=repositories
+  >>> mailto:art@artttj.de
+</code>
+</p>
