@@ -10,7 +10,7 @@
 
 <p><img src="https://artttj.github.io/assets/img/projects/rapidstack-icon.png" width="16" height="16" valign="middle"> <strong><a href="https://github.com/artttj/rapid-stack">Rapid Stack</a></strong> — Claude Code skills as short commands.</p>
 
-<p><img src="https://artttj.github.io/assets/img/projects/sonto-space-icon.png" width="16" height="16" valign="middle"> <strong><a href="https://sonto.space">sonto.space</a></strong> — AI-curated tech news aggregator.</p>
+<p><img src="https://artttj.github.io/assets/img/projects/sonto-space-icon.png" width="16" height="16" valign="middle"> <strong><a href="https://sonto.space">sonto.space</a></strong> — Minimal writing space. No account, no backend. Notes live in your browser.</p>
 
 <div align="center">
 
