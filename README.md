@@ -1,26 +1,25 @@
-<div align="center">
+```txt
+  engineering lead · frankfurt
+  dev tools · browser extensions · agentic experiments
+```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artttj/artttj/main/assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/artttj/artttj/main/assets/banner-light.svg">
-  <img alt="Selected work" width="100%" src="https://raw.githubusercontent.com/artttj/artttj/main/assets/banner-dark.svg">
-</picture>
+---
 
-</div>
+### selected work
 
 <table>
 <tr>
 <td width="50%">
 
-<img src="https://www.google.com/s2/favicons?sz=32&domain=github.com" width="14" height="14" valign="middle"> &nbsp;**[Sentō](https://github.com/artttj/sento)**<br>
-AI writing layer for any web interface.<br>
+**[Sentō](https://github.com/artttj/sento)**
+AI writing layer for any web interface.
 BYOK · Shadow DOM · Manifest V3
 
 </td>
 <td width="50%">
 
-<img src="https://www.google.com/s2/favicons?sz=32&domain=github.com" width="14" height="14" valign="middle"> &nbsp;**[Nemo](https://github.com/artttj/nemo)**<br>
-Passwords never leave your device.<br>
+**[Nemo](https://github.com/artttj/nemo)**
+Passwords never leave your device.
 E2E encrypted sync · Zero-knowledge · Beta
 
 </td>
@@ -28,29 +27,35 @@ E2E encrypted sync · Zero-knowledge · Beta
 <tr>
 <td width="50%">
 
-<img src="https://www.google.com/s2/favicons?sz=32&domain=github.com" width="14" height="14" valign="middle"> &nbsp;**[Noto](https://github.com/artttj/noto)**<br>
-Clipboard history and prompt shelf.<br>
+**[Noto](https://github.com/artttj/noto)**
+Clipboard history and prompt shelf.
 Chrome · Manifest V3 · Productivity
 
 </td>
 <td width="50%">
 
-<img src="https://www.google.com/s2/favicons?sz=32&domain=chromewebstore.google.com" width="14" height="14" valign="middle"> &nbsp;**[Synto](https://chromewebstore.google.com/detail/synto/fimopaolcnmojcdilinhmhnnbnnnkhjh)**<br>
-Web to structured data for LLM pipelines.<br>
+**[Synto](https://chromewebstore.google.com/detail/synto/fimopaolcnmojcdilinhmhnnbnnnkhjh)**
+Web to structured data for LLM pipelines.
 Markdown · AI APIs · Extraction
 
 </td>
 </tr>
 </table>
 
-<img src="https://www.google.com/s2/favicons?sz=32&domain=sonto.tech" width="14" height="14" valign="middle"> &nbsp;**[Sonto News](https://sonto.tech)** — Tech news curated by AI agents. 30+ sources, hourly crawl.
+**[Sonto News](https://sonto.tech)** — Tech news curated by AI agents. 30+ sources, hourly crawl.
 
-<img src="https://www.google.com/s2/favicons?sz=32&domain=github.com" width="14" height="14" valign="middle"> &nbsp;**[Rapid Stack](https://github.com/artttj/rapid-stack)** — Claude Code skills as short commands.
+**[Rapid Stack](https://github.com/artttj/rapid-stack)** — Claude Code skills as short commands.
+
+---
+
+### now
+
+Shipping browser extensions that feel native. Exploring agentic UI.
 
 ---
 
 <div align="center">
 
-[artttj.de](https://artttj.de) &nbsp;·&nbsp; [cv](https://artttj.de/cv) &nbsp;·&nbsp; [mail](mailto:art@artttj.de)
+[artttj.de](https://artttj.de) · [cv](https://artttj.de/cv) · [mail](mailto:art@artttj.de)
 
 </div>
