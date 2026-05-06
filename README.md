@@ -8,6 +8,8 @@
 <img src="https://artttj.github.io/assets/img/projects/sento-icon.png" width="16" height="16" valign="middle"> **<a href="https://github.com/artttj/sento">Sentō</a>** AI writing layer for any web interface.<br>
 <img src="https://artttj.github.io/assets/img/projects/synto-icon.png" width="16" height="16" valign="middle"> **<a href="https://chromewebstore.google.com/detail/synto/fimopaolcnmojcdilinhmhnnbnnnkhjh">Synto</a>** Web to structured data for LLM pipelines.
 
+<br clear="all">
+
 <div align="center">
 
 <a href="https://artttj.de">artttj.de</a>
