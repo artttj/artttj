@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220">
+  <defs>
+    <linearGradient id="bg-l" x1="0" y1="0" x2="800" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ece8e3"/>
+      <stop offset="1" stop-color="#e8e4df"/>
+    </linearGradient>
+    <linearGradient id="accent-l" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b7dd8" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#3b7dd8" stop-opacity="0.5"/>
+      <stop offset="0.7" stop-color="#5a8fd4" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#3b7dd8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow1-l" cx="0.15" cy="0.3" r="0.5">
+      <stop offset="0" stop-color="#a8c4e6" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#e8e4df" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2-l" cx="0.85" cy="0.7" r="0.4">
+      <stop offset="0" stop-color="#a0cfc8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#e8e4df" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow3-l" cx="0.55" cy="0.2" r="0.35">
+      <stop offset="0" stop-color="#c4b0e0" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#e8e4df" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur1-l">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+    <filter id="blur2-l">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="220" fill="url(#bg-l)"/>
+
+  <!-- Ambient blobs matching site aesthetic (light) -->
+  <ellipse cx="120" cy="66" rx="200" ry="160" fill="url(#glow1-l)" filter="url(#blur1-l)"/>
+  <ellipse cx="680" cy="154" rx="180" ry="140" fill="url(#glow2-l)" filter="url(#blur1-l)"/>
+  <ellipse cx="440" cy="44" rx="150" ry="100" fill="url(#glow3-l)" filter="url(#blur2-l)"/>
+
+  <!-- Glass card -->
+  <rect x="28" y="24" width="744" height="172" rx="20" ry="20"
+        fill="rgba(255,255,255,0.45)"
+        stroke="rgba(0,0,0,0.06)"
+        stroke-width="1"/>
+
+  <!-- Top highlight -->
+  <line x1="60" y1="25" x2="740" y2="25" stroke="rgba(255,255,255,0.7)" stroke-width="0.5"/>
+
+  <!-- Name -->
+  <text x="400" y="88" font-family="'Inter', 'SF Pro Display', -apple-system, system-ui, sans-serif"
+        font-size="36" font-weight="600" fill="rgba(0,0,0,0.82)"
+        text-anchor="middle" letter-spacing="-0.02em">
+    Artyom Yagovdik
+  </text>
+
+  <!-- Accent line -->
+  <rect x="300" y="106" width="200" height="1.5" rx="0.75" fill="url(#accent-l)" opacity="0.8"/>
+
+  <!-- Role -->
+  <text x="400" y="132" font-family="'Inter', 'SF Pro Display', -apple-system, system-ui, sans-serif"
+        font-size="13" font-weight="400" fill="rgba(0,0,0,0.38)"
+        text-anchor="middle" letter-spacing="0.12em">
+    ENGINEERING LEAD · FRANKFURT
+  </text>
+
+  <!-- Tagline -->
+  <text x="400" y="165" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', monospace"
+        font-size="11" font-weight="400" fill="rgba(0,0,0,0.22)"
+        text-anchor="middle" letter-spacing="0.04em">
+    dev tools · browser extensions · agentic experiments
+  </text>
+
+  <!-- Subtle border glow -->
+  <rect x="28" y="24" width="744" height="172" rx="20" ry="20"
+        fill="none" stroke="rgba(59,125,216,0.08)" stroke-width="2"/>
+</svg>
