@@ -11,11 +11,3 @@
 <p><img align="left" src="https://artttj.github.io/assets/img/projects/sento-icon.png" width="16" height="16"> <strong><a href="https://github.com/artttj/sento">Sentō</a></strong> AI writing layer for any web interface.</p>
 
 <p><img align="left" src="https://artttj.github.io/assets/img/projects/synto-icon.png" width="16" height="16"> <strong><a href="https://chromewebstore.google.com/detail/synto/fimopaolcnmojcdilinhmhnnbnnnkhjh">Synto</a></strong> Web to structured data for LLM pipelines.</p>
-
-<br>
-
-<div align="center">
-
-<a href="https://artttj.de">artttj.de</a>
-
-</div>
