@@ -1,3 +1,5 @@
+<p><img align="left" src="https://artttj.de/assets/img/projects/llama-review-icon.png" width="16" height="16"> <strong><a href="https://github.com/artttj/llama-review">Llama Review</a></strong> Multi-model code review swarm.</p>
+
 <p><img align="left" src="https://artttj.de/assets/img/projects/sonto-space-icon.png" width="16" height="16"> <strong><a href="https://sonto.space">Sonto Space</a></strong> Minimal writing space.</p>
 
 <p><img align="left" src="https://artttj.de/assets/img/projects/rapidstack-icon.png" width="16" height="16"> <strong><a href="https://github.com/artttj/rapid-stack">Rapid Stack</a></strong> Curated skills for rapid development.</p>
