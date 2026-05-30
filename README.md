@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://github.com/artttj/llama-smith"><img src="llama-smith.webp" width="340" alt="Llama Smith"></a>
-</p>
-
-<p align="center"><strong><a href="https://github.com/artttj/llama-smith">Llama Smith</a></strong> &mdash; a model swarm turns a real repo into an operational Claude Code skill.</p>
-
----
+<p><img align="left" src="llama-smith-icon.webp" width="20" height="20"> <strong><a href="https://github.com/artttj/llama-smith">Llama Smith</a></strong> Repo forensics forged into a Claude Code skill.</p>
 
 <p><img align="left" src="https://artttj.de/assets/img/projects/llama-review-icon.png?v=2" width="20" height="20"> <strong><a href="https://github.com/artttj/llama-review">Llama Review</a></strong> Multi-model code review swarm.</p>
 
