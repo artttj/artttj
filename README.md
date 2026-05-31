@@ -1,8 +1,8 @@
-<p><img align="left" src="llama-smith-icon.webp" width="20" height="20"> <strong><a href="https://github.com/artttj/llama-smith">Llama Smith</a></strong> Repo forensics forged into a Claude Code skill.</p>
+<p><img align="left" src="llama-smith-icon.webp" width="20" height="20"> <strong><a href="https://artttj.de/llama-smith/">Llama Smith</a></strong> Repo forensics forged into a Claude Code skill.</p>
 
 <p><img align="left" src="https://artttj.de/assets/img/projects/llama-review-icon.png?v=2" width="20" height="20"> <strong><a href="https://github.com/artttj/llama-review">Llama Review</a></strong> Multi-model code review swarm.</p>
 
-<p><img align="left" src="llama-steve-icon.webp" width="20" height="20"> <strong><a href="https://github.com/artttj/llama-steve">Llama Steve</a></strong> Cupertino-grade product teardown. Ships 3, cuts the rest.</p>
+<p><img align="left" src="llama-steve-icon.webp" width="20" height="20"> <strong><a href="https://sonto.space/steve/">Llama Steve</a></strong> Your roadmap has 1,000 ideas. He ships 3, kills the rest.</p>
 
 <p><img align="left" src="https://artttj.de/assets/img/projects/sonto-space-icon.png" width="16" height="16"> <strong><a href="https://sonto.space">Sonto Space</a></strong> Minimal writing space.</p>
 
