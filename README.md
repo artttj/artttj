@@ -1,19 +1,19 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
-      <p><img src="druck-icon.svg" width="20" height="20"> <strong><a href="https://sonto.tech/druck">Druck</a></strong> Structured JSON in, magazine pages out.</p>
+      <p><img src="druck-icon.svg" width="16" height="16"> <strong><a href="https://sonto.tech/druck">Druck</a></strong> Structured JSON in, magazine pages out.</p>
     </td>
     <td width="50%" valign="top">
-      <p><img src="llama-smith-icon.webp" width="20" height="20"> <strong><a href="https://artttj.de/llama-smith/">Llama Smith</a></strong> Repo forensics forged into a Claude Code skill.</p>
+      <p><img src="llama-smith-icon.webp" width="16" height="16"> <strong><a href="https://artttj.de/llama-smith/">Llama Smith</a></strong> Repo forensics forged into a Claude Code skill.</p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <p><img src="https://artttj.de/assets/img/projects/llama-review-icon.png?v=2" width="20" height="20"> <strong><a href="https://github.com/artttj/llama-review">Llama Review</a></strong> Multi-model code review swarm.</p>
+      <p><img src="https://artttj.de/assets/img/projects/llama-review-icon.png?v=2" width="16" height="16"> <strong><a href="https://github.com/artttj/llama-review">Llama Review</a></strong> Multi-model code review swarm.</p>
     </td>
     <td width="50%" valign="top">
-      <p><img src="llama-steve-icon.webp" width="20" height="20"> <strong><a href="https://sonto.space/steve/">Llama Steve</a></strong> Your roadmap has 1,000 ideas. He ships 3, kills the rest.</p>
+      <p><img src="llama-steve-icon.webp" width="16" height="16"> <strong><a href="https://sonto.space/steve/">Llama Steve</a></strong> Your roadmap has 1,000 ideas. He ships 3, kills the rest.</p>
     </td>
   </tr>
 
