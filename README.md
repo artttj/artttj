@@ -1,3 +1,5 @@
+<p><img align="left" src="druck-icon.svg" width="20" height="20"> <strong><a href="https://sonto.tech/druck">Druck</a></strong> Structured JSON in, magazine pages out.</p>
+
 <p><img align="left" src="llama-smith-icon.webp" width="20" height="20"> <strong><a href="https://artttj.de/llama-smith/">Llama Smith</a></strong> Repo forensics forged into a Claude Code skill.</p>
 
 <p><img align="left" src="https://artttj.de/assets/img/projects/llama-review-icon.png?v=2" width="20" height="20"> <strong><a href="https://github.com/artttj/llama-review">Llama Review</a></strong> Multi-model code review swarm.</p>
