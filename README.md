@@ -10,7 +10,7 @@
 
   <tr>
     <td width="50%" valign="top">
-      <p><img src="https://artttj.de/assets/img/projects/llama-review-icon.png?v=2" width="16" height="16"> <strong><a href="https://github.com/artttj/llama-review">Llama Review</a></strong> Multi-model code review swarm.</p>
+      <p><img src="https://artttj.de/assets/img/projects/llama-review-icon.png?v=2" width="16" height="16"> <strong><a href="https://sonto.space/llama-review/">Llama Review</a></strong> Multi-model code review swarm.</p>
     </td>
     <td width="50%" valign="top">
       <p><img src="llama-steve-icon.webp" width="16" height="16"> <strong><a href="https://sonto.space/steve/">Llama Steve</a></strong> Your roadmap has 1,000 ideas. He ships 3, kills the rest.</p>
