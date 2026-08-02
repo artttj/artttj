@@ -1,11 +1,4 @@
-<p><img src="https://artttj.de/assets/img/projects/rapidstack-icon.png" width="20" height="20"> <strong><a href="https://github.com/artttj/rapid-stack">Rapid Stack</a></strong> — short slash commands for Claude Code and OpenCode. Fifteen saved decisions, so you stop retyping the same instructions every day.</p>
-
-```
-/plugin marketplace add artttj/rapid-stack
-/plugin install rs@rapid-stack
-```
-
-<sub><a href="https://artttj.de/blog/thirteen-commands/">Why I built it</a></sub>
+<p><img src="https://artttj.de/assets/img/projects/rapidstack-icon.png" width="20" height="20"> <strong><a href="https://github.com/artttj/rapid-stack">Rapid Stack</a></strong> Short slash commands for Claude Code and OpenCode. Fifteen saved decisions, so you stop retyping the same instructions every day. <a href="https://artttj.de/blog/thirteen-commands/">Why I built it</a></p>
 
 <br>
 
