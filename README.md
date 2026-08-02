@@ -1,3 +1,14 @@
+<p><img src="https://artttj.de/assets/img/projects/rapidstack-icon.png" width="20" height="20"> <strong><a href="https://github.com/artttj/rapid-stack">Rapid Stack</a></strong> — short slash commands for Claude Code and OpenCode. Fifteen saved decisions, so you stop retyping the same instructions every day.</p>
+
+```
+/plugin marketplace add artttj/rapid-stack
+/plugin install rs@rapid-stack
+```
+
+<sub><a href="https://artttj.de/blog/thirteen-commands/">Why I built it</a></sub>
+
+<br>
+
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
@@ -22,25 +33,24 @@
       <p><img src="https://artttj.de/assets/img/projects/sonto-space-icon.png" width="16" height="16"> <strong><a href="https://sonto.space">Sonto Space</a></strong> Minimal writing space.</p>
     </td>
     <td width="50%" valign="top">
-      <p><img src="https://artttj.de/assets/img/projects/rapidstack-icon.png" width="16" height="16"> <strong><a href="https://github.com/artttj/rapid-stack">Rapid Stack</a></strong> Curated skills for rapid development.</p>
+      <p><img src="https://artttj.de/assets/img/projects/sonto-news-icon.png" width="16" height="16"> <strong><a href="https://sonto.tech">Sonto News</a></strong> Tech news curated by AI agents.</p>
     </td>
   </tr>
 
   <tr>
-    <td width="50%" valign="top">
-      <p><img src="https://artttj.de/assets/img/projects/sonto-news-icon.png" width="16" height="16"> <strong><a href="https://sonto.tech">Sonto News</a></strong> Tech news curated by AI agents.</p>
-    </td>
     <td width="50%" valign="top">
       <p><img src="https://artttj.de/assets/img/projects/noto-icon.png" width="16" height="16"> <strong><a href="https://chromewebstore.google.com/detail/noto/oddalendfcaonkemohpokibgndnnogag">Noto</a></strong> Clipboard history and prompt shelf.</p>
     </td>
+    <td width="50%" valign="top">
+      <p><img src="https://artttj.de/assets/img/projects/sento-icon.png" width="16" height="16"> <strong><a href="https://chromewebstore.google.com/detail/njdfdfhcnlfkigkppnhbihlidjmiepfb">Sentō</a></strong> AI writing layer for any web interface.</p>
+    </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <p><img src="https://artttj.de/assets/img/projects/sento-icon.png" width="16" height="16"> <strong><a href="https://chromewebstore.google.com/detail/njdfdfhcnlfkigkppnhbihlidjmiepfb">Sentō</a></strong> AI writing layer for any web interface.</p>
+      <p><img src="https://artttj.de/assets/img/projects/synto-icon.png" width="16" height="16"> <strong><a href="https://chromewebstore.google.com/detail/synto/fimopaolcnmojcdilinhmhnnbnnnkhjh">Synto</a></strong> Web to structured data for LLM pipelines.</p>
     </td>
     <td width="50%" valign="top">
-      <p><img src="https://artttj.de/assets/img/projects/synto-icon.png" width="16" height="16"> <strong><a href="https://chromewebstore.google.com/detail/synto/fimopaolcnmojcdilinhmhnnbnnnkhjh">Synto</a></strong> Web to structured data for LLM pipelines.</p>
     </td>
   </tr>
 </table>
