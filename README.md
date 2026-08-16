@@ -57,6 +57,8 @@
     <td width="50%" valign="top">
       <p><img src="https://artttj.de/assets/img/projects/synto-icon.png" width="16" height="16"> <strong><a href="https://chromewebstore.google.com/detail/synto/fimopaolcnmojcdilinhmhnnbnnnkhjh">Synto</a></strong> Web to structured data for LLM pipelines.</p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <p><img src="quote-before-code-icon.svg" width="16" height="16"> <strong><a href="https://github.com/artttj/quote-before-code">Quote Before Code</a></strong> Agents quote real code before writing any. 930 graded runs, 0/40 to 40/40.</p>
+    </td>
   </tr>
 </table>
