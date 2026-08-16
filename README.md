@@ -11,6 +11,13 @@
       Fifteen short slash commands for Claude Code and OpenCode. Each one is a decision you stop making twice.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><img src="kontextrevision-icon.svg" width="20" height="20"> <strong><a href="https://github.com/artttj/kontextrevision">kontextrevision</a></strong><br>
+      Context architecture for AGENTS.md, CLAUDE.md, and SOUL.md. Revises them in place behind guards that refuse a bad rewrite.</p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 <br>
